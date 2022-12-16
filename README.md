@@ -1,0 +1,2 @@
+# Modelling Quality of Experience of using Voice Assistants
+With voice assistants becoming an important part of our ecosystem, there have been studies which highlight the ways to measure the quality of experience of Voice assistants. However, modelling the quality of experience is also required. Motivated by this, we aim to identify and evaluate the important factors which influence the quality of experience of voice assistant users and use Machine Learning models to predict this quality of experience. We also aim to determine the applications of this study. 
