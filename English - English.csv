@@ -1,0 +1,123 @@
+ID,Start time,Completion time,Email,Name,Please enter your name.,Please enter your age.,What is your gender?,Occupation,Education,Please rate your English reading and conversation skills,Which device are you using?,"Which voice assistant are you using?
+",Ease of Usage (1. Easy- 5. Complicated) [1],Response Time (1. Slow - 5. Fast) [1],Ease of Usage (1. Easy - 5. Complicated) [3],Relevance (1. Inaccurate - 5. Accurate) [3],Ease of Usage (1. Easy - 5. Complicated) [2],Response Time (1. Slow - 5. Fast) [2],Relevance (1. Inaccurate - 5. Accurate) [4],Response Time (1. Slow - 5. Fast) [4],Relevance (1. Inaccurate - 5. Accurate) [5],Response Time (1. Slow - 5. Fast) [5],Clarity of Voice (1. Not Clear - 5. Clear) [7],Relevance (1. Inaccurate - 5. Accurate ) [6],Response Time (1.Slow - 5.Fast) [6],Relevance (1. Inaccurate - 5. Accurate ) [7],Response Time (1. Slow - 5. Fast) [7],Clarity of Voice (1. Not Clear - 5. Clear) [8],How did you find the overall performance of  the VA?,How likely are you to recommend the VA to a friend or colleague?,Response Time (1. Slow - 5. Fast) [3]
+13,9/25/22 22:47:28,9/25/22 22:55:38,ai21mtech14002@iith.ac.in,SAI SUNAMDHA HARINHI MADDULA,MADDULA SAI SUNAMDHA HARINHI,22,Female,Student,Masters,5,Mobile Phone,Google Assistant,1,5,1,4,1,5,5,5,5,5,5,5,5,4,5,5,5,10,5
+17,9/28/22 16:24:56,9/28/22 16:32:00,ai21mtech14009@iith.ac.in,Varshita Sharma,Varshita Sharma,24,Female,Student,Masters,5,Mobile Phone,Google Assistant,1,5,1,5,1,5,5,5,5,5,5,5,5,5,5,5,5,9,4
+20,9/28/22 16:57:14,9/28/22 17:17:35,ai21mtech14009@iith.ac.in,Varshita Sharma,Varshita Sharma,24,Female,Student,Masters,5,Laptop/PC,Apple Siri,3,5,1,5,1,5,5,5,5,5,0,1,5,0,0,5,3,6,5
+21,9/28/22 18:19:18,9/28/22 18:27:27,ai22mtech02006@iith.ac.in,Akshad Shyam,Akshad Shyam,25,Male,Student,Masters,5,Mobile Phone,Google Assistant,1,5,1,4,1,4,5,5,5,5,5,5,4,5,5,5,5,10,4
+22,9/28/22 18:29:12,9/28/22 18:35:45,ai22mtech02006@iith.ac.in,Akshad Shyam,Akshad Shyam,25,Male,Student,Masters,5,Laptop/PC,Microsoft Cortana,0,5,0,0,0,5,0,5,5,5,0,0,5,5,5,5,2,0,5
+23,9/28/22 18:53:49,9/28/22 18:54:57,ai21mtech12001@iith.ac.in,Ishita Bardhan,Ishita Bardhan,22,Female,Student,Masters,5,Mobile Phone,Google Assistant,1,5,1,5,1,5,5,5,5,5,5,5,4,5,5,5,5,10,5
+24,9/28/22 18:55:01,9/28/22 18:57:25,ai21mtech12001@iith.ac.in,Ishita Bardhan,Ishita Bardhan,22,Female,Student,Masters,5,Laptop/PC,Microsoft Cortana,0,5,4,2,0,5,0,5,5,5,3,0,5,2,5,3,1,1,2
+25,9/28/22 18:53:48,9/28/22 19:36:01,ai22resch01002@iith.ac.in,PUJITHA MAMILLAPALLI,Pujitha. M,24,Female,Student,Doctorate and above,4,Mobile Phone,Amazon Alexa,0,0,4,1,1,4,5,3,5,4,5,0,0,5,5,5,3,5,3
+26,9/28/22 19:36:29,9/28/22 19:40:38,ai22resch01002@iith.ac.in,PUJITHA MAMILLAPALLI,Pujitha M,24,Female,Student,Doctorate and above,4,Mobile Phone,Apple Siri,1,5,0,0,1,5,1,4,5,5,0,5,5,0,0,5,3,6,0
+27,9/28/22 21:33:41,9/28/22 21:45:51,ai21mtech14004@iith.ac.in,Tejas Arya,Tejas Arya,23,Male,Student,Masters,5,Mobile Phone,Google Assistant,1,5,1,5,1,5,5,5,5,5,5,5,5,5,5,5,5,9,5
+28,9/28/22 21:47:37,9/28/22 21:58:43,ai21mtech14004@iith.ac.in,Tejas Arya,Tejas Arya,23,Male,Student,Masters,5,Mobile Phone,Apple Siri,1,5,2,4,1,5,1,5,5,5,0,4,5,0,0,0,3,7,2
+29,9/28/22 21:53:29,9/28/22 22:04:14,EE21MTECH14003@iith.ac.in,ABHIRAMI S,Abhirami S,25,Female,Student,Masters,5,Mobile Phone,Google Assistant,1,4,1,5,1,4,4,4,1,4,5,5,5,5,5,5,4,9,4
+30,9/28/22 22:08:55,9/28/22 22:25:59,ai21mtech14004@iith.ac.in,Tejas Arya,Tejas Arya,23,Male,Student,Masters,5,Mobile Phone,Amazon Alexa,0,0,3,1,1,4,5,4,5,5,0,5,5,0,0,5,3,6,4
+32,9/29/22 18:33:03,9/29/22 18:40:59,CH21MTECH14004@iith.ac.in,Chetna Godara,chetna,26,Female,student,Masters,5,Mobile Phone,Google Assistant,1,5,1,5,1,5,5,5,5,5,5,5,5,4,5,5,5,10,5
+33,9/29/22 20:17:22,9/29/22 20:32:13,cs22mtech02003@iith.ac.in,Priyansha Tiwari,Priyansha Tiwari,22,Female,Student,Masters,4,Laptop/PC,Apple Siri,1,5,2,5,1,5,1,5,5,5,0,4,5,0,0,4,4,9,5
+34,9/29/22 20:32:17,9/29/22 20:42:10,cs22mtech02003@iith.ac.in,Priyansha Tiwari,Priyansha Tiwari,22,Female,Student,Masters,4,Mobile Phone,Amazon Alexa,0,5,1,5,1,5,4,5,5,5,5,4,5,5,5,5,4,9,5
+35,9/29/22 20:57:37,9/29/22 21:05:22,cs22mtech02003@iith.ac.in,Priyansha Tiwari,Priyansha Tiwari,22,Female,Student,Masters,4,Laptop/PC,Microsoft Cortana,0,5,0,0,0,5,1,5,4,5,4,1,5,5,5,5,4,7,5
+38,10/1/22 18:44:14,10/1/22 18:52:24,ME20BTECH11057@iith.ac.in,Lasya Chemuru,C Lasya,18,Female,student,Bachelors,4,Laptop/PC,Microsoft Cortana,0,5,5,3,0,5,5,5,5,5,5,0,5,5,5,5,3,5,5
+39,10/1/22 22:12:35,10/1/22 22:20:26,CH21MTECH14004@iith.ac.in,Chetna Godara,chetna,26,Female,student,Masters,5,Mobile Phone,Amazon Alexa,0,5,5,1,1,5,2,5,5,5,5,0,5,5,5,5,3,10,5
+40,10/1/22 22:20:32,10/1/22 22:32:49,CH21MTECH14004@iith.ac.in,Chetna Godara,chetna,26,Female,student,Masters,5,Laptop/PC,Microsoft Cortana,0,5,2,2,0,5,2,5,5,5,0,0,5,2,5,5,2,10,5
+41,10/1/22 22:54:51,10/1/22 23:04:53,CH21MTECH14004@iith.ac.in,Chetna Godara,chetna,26,Female,student,Masters,5,Laptop/PC,Apple Siri,2,5,1,4,1,5,3,5,5,5,0,4,5,0,0,5,3,10,4
+42,10/3/22 11:06:08,10/3/22 11:16:07,bd20bdes11011@iith.ac.in,Finaa Abdurahman,Finaa,21,Female,student,Bachelors,5,Mobile Phone,Amazon Alexa,0,4,1,3,1,5,5,4,5,5,5,2,4,5,5,5,4,8,3
+43,10/3/22 11:16:10,10/3/22 11:22:46,bd20bdes11011@iith.ac.in,Finaa Abdurahman,finaa,21,Female,student,Bachelors,5,Laptop/PC,Apple Siri,1,3,4,3,3,4,0,4,5,5,0,4,4,0,0,4,3,4,4
+44,10/3/22 11:22:50,10/3/22 11:31:06,bd20bdes11011@iith.ac.in,Finaa Abdurahman,finaa,21,Female,student,Bachelors,5,Laptop/PC,Microsoft Cortana,0,4,5,1,0,5,1,5,5,5,0,0,5,5,4,4,1,0,5
+45,10/3/22 11:31:13,10/3/22 11:36:18,bd20bdes11011@iith.ac.in,Finaa Abdurahman,finaa,21,Female,student,Bachelors,5,Mobile Phone,Google Assistant,1,5,1,5,2,4,5,5,5,5,1,5,5,5,5,5,4,8,5
+46,10/3/22 16:21:24,10/3/22 16:25:28,ce21mtech14004@iith.ac.in,Kundurthi Srinidhi,KUNDURTHI SRINIDHI,23,Female,STUDENT,Masters,5,Mobile Phone,Google Assistant,1,5,1,5,1,5,5,5,5,5,5,5,5,5,5,5,5,10,5
+47,10/3/22 17:15:34,10/3/22 17:20:54,sm21mtech12006@iith.ac.in,sasideep billakurthi,BILLAKURTHI SHAI SASI DEEP,24,Male,STUDENT,Masters,5,Mobile Phone,Amazon Alexa,0,5,1,5,1,5,5,5,5,5,5,3,5,5,5,5,4,9,5
+48,10/3/22 17:30:13,10/3/22 17:32:39,SM21MTECH12002@iith.ac.in,Sahin Hossain Chowdhury,Sahin Chowdhury,24,Male,Student,Masters,4,Mobile Phone,Apple Siri,1,4,3,3,1,5,2,4,5,5,0,4,4,0,4,4,4,7,3
+49,10/3/22 17:23:37,10/3/22 17:38:02,sm21mtech12006@iith.ac.in,sasideep billakurthi,BILLAKURTHI SHAI SASI DEEP,24,Male,STUDENT,Masters,5,Laptop/PC,Microsoft Cortana,1,5,1,2,1,5,2,5,5,5,0,0,5,5,5,5,4,8,5
+50,10/3/22 17:38:37,10/3/22 17:46:18,sm21mtech12006@iith.ac.in,sasideep billakurthi,BILLAKURTHI SHAI SASI DEEP,24,Male,STUDENT,Masters,5,Mobile Phone,Google Assistant,1,5,1,5,1,3,5,5,5,5,5,5,4,5,5,5,4,10,5
+51,10/3/22 17:35:30,10/3/22 17:51:37,ai21mtech14009@iith.ac.in,Varshita Sharma,Sahin Chowdhury,24,Male,Student,Masters,4,Mobile Phone,Google Assistant,4,4,1,5,1,5,5,5,5,5,5,5,5,5,5,5,5,10,5
+52,10/3/22 18:11:01,10/3/22 18:21:55,is21mtech11003@iith.ac.in,Himanshu Yadav,Himanshu Yadav,25,Male,Student,Masters,4,Mobile Phone,Google Assistant,1,5,1,5,1,5,5,4,5,4,4,5,3,5,2,5,4,8,4
+53,10/3/22 18:18:54,10/3/22 18:24:09,IS21MTECH14003@iith.ac.in,Mohit Gaur,Mohit Gaur,26,Male,Student,Masters,5,Laptop/PC,Microsoft Cortana,0,4,0,0,0,4,0,4,4,4,4,0,4,4,4,4,2,3,4
+54,10/3/22 18:21:24,10/3/22 18:24:57,sm21mtech12006@iith.ac.in,sasideep billakurthi,BILLAKURTHI SHAI SASI DEEP,24,Male,STUDENT,Masters,5,Mobile Phone,Apple Siri,0,5,3,5,1,5,4,5,5,5,0,5,5,0,5,5,4,8,5
+55,10/3/22 18:29:43,10/3/22 18:35:00,IS21MTECH11002@iith.ac.in,Rajesh Malladi,Rajesh,25,Male,Student,Masters,5,Mobile Phone,Amazon Alexa,0,2,3,4,1,3,2,4,5,3,4,3,3,4,4,4,3,6,2
+56,10/3/22 18:22:04,10/3/22 18:35:08,is21mtech11003@iith.ac.in,Himanshu Yadav,Himanshu Yadav,25,Male,Student,Masters,4,Mobile Phone,Amazon Alexa,0,4,0,0,2,4,5,4,5,4,5,5,4,5,4,4,3,5,4
+57,10/3/22 18:07:42,10/3/22 18:37:15,is21mtech14011@iith.ac.in,Sahadev Matcha,Sahadev,25,Male,Student,Masters,4,Mobile Phone,Google Assistant,1,5,1,5,1,5,4,5,5,5,3,4,5,5,5,5,4,8,5
+58,10/3/22 18:37:31,10/3/22 18:45:27,is21mtech14011@iith.ac.in,Sahadev Matcha,Sahadev,25,Male,Student,Masters,5,Mobile Phone,Amazon Alexa,0,2,1,1,1,5,5,5,5,5,5,0,3,5,5,5,4,8,3
+59,10/3/22 18:46:35,10/3/22 18:52:10,IS21MTECH14003@iith.ac.in,Mohit Gaur,Mohit Gaur,25,Male,Student,Masters,4,Laptop/PC,Microsoft Cortana,0,4,3,3,0,4,3,4,5,4,0,0,4,4,4,5,2,2,4
+60,10/3/22 18:53:38,10/3/22 18:59:21,is21mtech14011@iith.ac.in,Sahadev Matcha,Sahadev,25,Male,Student,Masters,4,Laptop/PC,Microsoft Cortana,0,3,1,1,0,4,3,5,5,5,0,2,5,3,5,5,3,4,4
+61,10/3/22 18:35:42,10/3/22 19:02:04,is21mtech11003@iith.ac.in,Himanshu Yadav,Himanshu Yadav,25,Male,Student,Masters,4,Mobile Phone,Apple Siri,3,5,1,3,3,5,3,5,5,5,0,5,5,0,5,5,4,6,5
+62,10/3/22 18:57:21,10/3/22 19:04:47,IS21MTECH14003@iith.ac.in,Mohit Gaur,Mohit Gaur,25,Male,Student,Masters,5,Mobile Phone,Google Assistant,1,5,2,4,1,5,5,4,4,4,4,3,2,4,3,5,4,8,4
+63,10/3/22 19:09:13,10/3/22 19:09:25,is21mtech14011@iith.ac.in,Sahadev Matcha,Sahadev,25,Male,Student,Masters,4,Mobile Phone,Apple Siri,2,5,1,5,1,5,3,5,5,5,0,5,5,1,5,5,4,7,4
+64,10/3/22 19:07:12,10/3/22 19:12:11,IS21MTECH14003@iith.ac.in,Mohit Gaur,Mohit Gaur,25,Male,Student,Masters,4,Mobile Phone,Amazon Alexa,0,5,4,3,3,3,5,4,5,5,5,4,3,5,4,5,3,7,4
+65,10/3/22 19:03:33,10/3/22 19:16:33,is21mtech11003@iith.ac.in,Himanshu Yadav,Himanshu Yadav,25,Male,Student,Masters,4,Laptop/PC,Microsoft Cortana,0,3,5,4,0,3,4,3,5,3,0,0,3,5,3,5,2,3,3
+66,10/3/22 19:39:05,10/3/22 19:56:28,SM21MTECH12002@iith.ac.in,Sahin Hossain Chowdhury,Sahin Chowdhury,24,Male,Student,Masters,4,Laptop/PC,Microsoft Cortana,0,4,0,0,0,4,3,4,5,5,5,0,3,5,5,5,2,3,4
+67,10/3/22 20:07:38,10/3/22 20:14:58,SM21MTECH12002@iith.ac.in,Sahin Hossain Chowdhury,Sahin Chowdhury,24,Male,Student,Masters,4,Mobile Phone,Amazon Alexa,0,4,1,1,1,5,3,4,5,5,5,2,4,5,5,4,3,6,4
+68,10/3/22 23:11:58,10/3/22 23:16:51,ee21mtech11018@iith.ac.in,BANDARU V K S L KEERTHI SUDHA,keerthi,23,Female,student,Masters,5,Mobile Phone,Amazon Alexa,0,4,2,2,1,5,5,5,5,5,5,5,5,5,5,5,4,8,4
+69,10/3/22 23:17:39,10/3/22 23:23:46,ee21mtech11018@iith.ac.in,BANDARU V K S L KEERTHI SUDHA,Keerthi,23,Female,Student,Masters,4,Laptop/PC,Microsoft Cortana,0,1,2,2,0,4,1,2,5,4,5,0,4,5,4,5,2,2,1
+70,10/3/22 23:24:01,10/3/22 23:29:54,ee21mtech11018@iith.ac.in,BANDARU V K S L KEERTHI SUDHA,Keerthi,23,Female,Student,Masters,4,Mobile Phone,Google Assistant,1,5,1,5,1,5,5,5,5,5,5,5,5,5,5,5,5,9,5
+71,10/3/22 23:30:05,10/3/22 23:34:22,ee21mtech11018@iith.ac.in,BANDARU V K S L KEERTHI SUDHA,Keerthi,23,Female,Student,Masters,5,Laptop/PC,Apple Siri,1,5,2,5,2,4,1,4,5,4,0,3,4,0,0,5,3,5,4
+72,10/4/22 19:31:38,10/4/22 19:42:57,cs21btech11043@iith.ac.in,ANUDEEP PERALA,Anudeep Rao Perala,19,Male,Student,Bachelors,4,Mobile Phone,Amazon Alexa,1,5,1,5,1,5,5,5,5,5,5,5,4,5,5,5,4,9,4
+73,10/4/22 19:43:31,10/4/22 19:57:24,cs21btech11044@iith.ac.in,Pranav Varma,Pranav Varma,19,Male,Student,Bachelors,5,Mobile Phone,Amazon Alexa,0,5,1,3,1,5,5,5,5,5,5,5,5,5,5,5,4,9,5
+74,10/4/22 19:47:23,10/4/22 19:58:39,CH21MTECH11013@iith.ac.in,JAYACHANDAR DODDA,JAYACHANDAR,23,Male,student,Masters,4,Laptop/PC,Microsoft Cortana,0,5,2,5,0,5,0,5,5,5,5,3,5,5,5,5,2,2,5
+75,10/4/22 19:53:28,10/4/22 20:02:37,cs21btech11043@iith.ac.in,ANUDEEP PERALA,Anudeep Rao Perala,19,Male,Student,Bachelors,4,Laptop/PC,Apple Siri,1,4,1,4,1,5,5,5,5,5,0,3,5,0,0,5,4,8,5
+76,10/4/22 19:59:25,10/4/22 20:04:08,CH21MTECH11013@iith.ac.in,JAYACHANDAR DODDA,JAYACHANDAR,23,Male,student,Masters,3,Mobile Phone,Google Assistant,1,4,1,5,1,5,5,5,5,5,5,5,5,5,5,5,5,10,5
+77,10/4/22 19:57:41,10/4/22 20:04:16,cs21btech11044@iith.ac.in,Pranav Varma,Pranav Varma,19,Male,Student,Bachelors,5,Mobile Phone,Google Assistant,1,5,1,5,2,5,5,5,5,5,5,5,5,5,5,5,5,10,5
+78,10/4/22 20:03:16,10/4/22 20:09:50,cs21btech11043@iith.ac.in,ANUDEEP PERALA,Anudeep Rao Perala,19,Male,Student,Bachelors,4,Mobile Phone,Google Assistant,1,5,1,5,1,5,5,5,5,5,5,5,5,3,4,5,4,9,5
+79,10/5/22 18:44:08,10/5/22 18:56:28,et21mtech11002@iith.ac.in,Rahul Ghuge,Rahul Ghuge,26,Male,Student,Masters,4,Mobile Phone,Amazon Alexa,0,4,0,0,1,5,5,5,5,5,5,5,1,5,5,5,4,8,5
+80,10/5/22 18:41:26,10/5/22 19:06:56,ME21MTECH11010@iith.ac.in,VIKAS GUPTA,VIKAS,24,Male,Student,Masters,5,Laptop/PC,Apple Siri,1,5,4,4,1,3,5,3,5,5,0,2,4,0,0,5,4,8,1
+81,10/5/22 19:03:56,10/5/22 19:13:15,et21mtech14001@iith.ac.in,Aayush Nagar,Aayush nagar,25,Male,Student,Masters,3,Mobile Phone,Microsoft Cortana,0,4,3,4,2,3,0,4,5,4,5,1,5,5,5,4,3,5,4
+82,10/5/22 19:15:04,10/5/22 19:20:28,et21mtech14001@iith.ac.in,Aayush Nagar,Aayush nagar,25,Male,Student,Masters,3,Mobile Phone,Amazon Alexa,0,5,0,4,1,5,5,5,5,5,5,5,3,5,5,5,4,9,4
+83,10/5/22 19:10:00,10/5/22 19:21:38,ET21MTECH11003@iith.ac.in,Saurav Sankhe,Saurav S Sankhe,25,Male,Student,Masters,5,Laptop/PC,Apple Siri,1,5,1,5,1,5,0,4,5,5,0,1,5,1,4,5,5,10,5
+84,10/5/22 19:28:39,10/5/22 19:32:57,et21mtech14004@iith.ac.in,Tamal Howladar,Tamal Howladar,27,Male,student,Masters,5,Mobile Phone,Amazon Alexa,0,5,0,0,1,5,5,5,5,5,5,3,5,5,5,5,4,9,5
+85,10/5/22 19:34:59,10/5/22 19:38:58,ME21MTECH11010@iith.ac.in,VIKAS GUPTA,VIKAS,24,Male,STUDENT,Masters,5,Laptop/PC,Microsoft Cortana,0,4,4,2,0,3,0,0,5,4,5,0,4,5,4,5,3,5,4
+86,10/5/22 18:50:03,10/5/22 19:40:41,me21mtech11014@iith.ac.in,Abhishek Ghadi,ABHISHEK GHADI,25,Male,Student,Masters,5,Laptop/PC,Apple Siri,1,5,3,3,1,5,2,5,5,5,0,5,4,0,0,5,4,7,4
+87,10/5/22 19:37:54,10/5/22 19:44:48,cc21resch11002@iith.ac.in,Dinesh Prabhakaran,Dinesh Prabhakaran,29,Male,PhD Scholar,Doctorate and above,5,Laptop/PC,Microsoft Cortana,0,4,1,1,0,5,2,4,5,5,5,1,5,5,5,5,3,5,5
+88,10/10/22 18:58:30,10/10/22 19:05:01,ai19resch11003@iith.ac.in,Suresh N,Suresh N,35,Male,Student,Masters,5,Laptop/PC,Apple Siri,1,5,1,3,1,5,5,5,5,5,0,5,5,1,1,5,4,9,5
+89,10/11/22 18:30:43,10/11/22 18:35:25,anonymous,,Nemalidinne Siva Mouni,26,Female,Phd student,Bachelors,5,Mobile Phone,Google Assistant,2,4,2,5,1,4,5,4,5,2,5,5,4,5,3,5,4,8,4
+90,10/11/22 18:35:33,10/11/22 18:42:30,anonymous,,Nemalidinne Siva Mouni,26,Female,Phd student,Bachelors,5,Laptop/PC,Microsoft Cortana,0,4,0,0,0,4,0,4,5,4,0,0,4,5,4,5,2,4,4
+91,10/11/22 19:03:09,10/11/22 19:08:57,anonymous,,Nemalidinne Siva Mouni,26,Female,Phd student,Bachelors,5,Mobile Phone,Amazon Alexa,0,4,0,1,1,4,5,4,5,4,5,0,4,5,4,5,3,6,4
+92,10/11/22 22:58:47,10/11/22 23:07:49,ce20btech11039@iith.ac.in,Nikitha Sirivolu,Nikitha Sirivolu,18,Female,Student,Bachelors,5,Mobile Phone,Microsoft Cortana,0,4,0,0,0,4,2,4,5,4,5,0,2,3,3,5,2,5,4
+93,10/11/22 23:08:03,10/11/22 23:20:14,ce20btech11039@iith.ac.in,Nikitha Sirivolu,Nikitha Sirivolu,18,Female,Student,Bachelors,5,Laptop/PC,Apple Siri,1,5,2,5,1,5,3,5,5,5,0,3,5,3,5,5,3,7,5
+94,10/12/22 14:25:12,10/12/22 14:32:39,bd20bdes11013@iith.ac.in,Ishwari Deshmukh,ishwari deshmukh,21,Female,student,Bachelors,5,Laptop/PC,Apple Siri,1,5,2,3,1,5,4,4,5,4,1,4,5,3,5,4,3,8,4
+95,10/12/22 15:44:23,10/12/22 15:49:42,ai21mtech14011@iith.ac.in,Aman Ladkat,Aman Ladkat,23,Male,Student,Masters,4,Mobile Phone,Apple Siri,1,5,1,4,1,5,5,5,5,5,4,4,5,5,4,5,3,8,4
+96,10/12/22 16:16:00,10/12/22 16:26:25,ai21mtech11003@iith.ac.in,Shashank Jerri,J. Shashank,25,Male,Student,Masters,5,Laptop/PC,Microsoft Cortana,0,5,5,2,0,5,0,5,5,5,0,0,5,5,5,5,2,2,5
+97,10/12/22 16:49:26,10/12/22 17:27:11,ch21mtech11012@iith.ac.in,Ajay kumar Pandala,Ajay kumar pandala,22,Male,Student,Masters,5,Mobile Phone,Google Assistant,1,5,1,5,1,5,5,5,5,5,5,5,5,5,5,5,5,7,5
+98,10/12/22 17:35:41,10/12/22 17:49:27,ai19resch11003@iith.ac.in,Suresh N,Suresh N,35,Male,Student,Masters,5,Mobile Phone,Amazon Alexa,0,4,1,5,5,3,4,1,5,5,5,1,4,5,5,5,5,10,5
+99,10/12/22 20:09:59,10/12/22 20:17:30,IS21MTECH14010@iith.ac.in,ABHINAV PUBBI,ABHINAV,24,Male,STUDENT,Masters,5,Laptop/PC,Apple Siri,1,5,5,1,1,5,1,4,5,5,4,0,4,1,3,5,4,5,3
+100,10/12/22 20:17:54,10/12/22 20:22:24,IS21MTECH14010@iith.ac.in,ABHINAV PUBBI,ABHINAV,24,Male,STUDENT,Masters,5,Mobile Phone,Amazon Alexa,0,5,1,1,1,5,5,5,5,5,5,0,2,5,5,5,4,8,5
+101,10/12/22 20:23:19,10/12/22 20:27:31,IS21MTECH14010@iith.ac.in,ABHINAV PUBBI,ABHINAV,24,Male,STUDENT,Masters,5,Mobile Phone,Google Assistant,1,5,1,5,1,5,4,3,5,5,3,5,4,4,5,4,4,8,5
+102,10/13/22 19:02:39,10/13/22 19:08:37,ce20btech11029@iith.ac.in,POLISETTY AMULYA,POLISETTY AMULYA,20,Female,STUDENT,Bachelors,4,Laptop/PC,Apple Siri,1,5,1,5,1,5,5,5,5,5,0,3,4,1,4,4,3,6,4
+103,10/13/22 21:00:26,10/13/22 21:05:41,EE21MTECH14011@iith.ac.in,PAYAL PRIYADARSHINI,Payal,23,Female,student,Masters,5,Laptop/PC,Microsoft Cortana,0,5,3,3,0,5,4,5,5,5,5,0,5,5,5,5,5,9,5
+105,10/14/22 13:33:24,10/14/22 13:43:49,anonymous,,Reshma I R,25,Female,PhD scholar,Doctorate and above,4,Mobile Phone,Google Assistant,1,4,1,5,1,5,5,5,5,5,5,4,4,5,5,5,5,10,5
+106,10/14/22 13:43:53,10/14/22 13:50:43,anonymous,,Reshma I R,25,Female,PhD scholar,Doctorate and above,5,Laptop/PC,Apple Siri,1,5,1,5,1,5,5,5,5,5,0,4,5,3,5,5,5,10,5
+107,10/14/22 16:02:54,10/14/22 16:08:55,anonymous,,Shubham Dangat,24,Male,Student,Masters,5,Mobile Phone,Amazon Alexa,0,5,0,0,1,5,5,5,5,5,5,5,5,5,5,5,5,10,5
+108,10/14/22 16:09:24,10/14/22 16:15:43,anonymous,,Shubham Dangat,24,Male,Student,Masters,5,Mobile Phone,Google Assistant,1,5,1,5,1,5,5,5,5,5,5,5,5,5,5,5,5,10,5
+109,10/14/22 16:21:25,10/14/22 16:26:45,anonymous,,Shubham Dangat,24,Male,Student,Masters,5,Laptop/PC,Microsoft Cortana,0,5,0,0,0,2,0,2,5,5,5,0,3,3,3,4,2,3,5
+110,10/14/22 16:45:39,10/14/22 16:51:14,anonymous,,Prakriti Sahu,23,Female,Student,Masters,5,Mobile Phone,Google Assistant,1,5,1,5,1,5,3,5,5,4,5,5,5,5,5,5,5,9,5
+111,10/14/22 19:30:34,10/14/22 19:40:34,anonymous,,S Sruthi,20,Female,Student,Bachelors,5,Laptop/PC,Microsoft Cortana,0,5,4,5,0,5,4,5,5,5,3,0,5,5,5,5,3,5,5
+112,10/14/22 19:31:41,10/14/22 19:41:49,anonymous,,H. N Srikanth,23,Male,Student,Masters,5,Mobile Phone,Amazon Alexa,0,5,0,0,1,5,5,5,5,5,5,5,5,5,5,5,4,8,5
+113,10/14/22 19:42:16,10/14/22 19:48:19,anonymous,,S Sruthi,20,Female,Student,Bachelors,5,Mobile Phone,Google Assistant,0,5,1,5,1,5,5,5,5,5,5,5,5,5,5,5,4,10,5
+114,10/14/22 19:41:55,10/14/22 19:52:00,anonymous,,H. N Srikanth,23,Male,Student,Masters,5,Mobile Phone,Google Assistant,1,5,1,5,1,5,5,5,5,5,5,5,5,5,5,4,4,9,5
+115,10/14/22 20:15:46,10/14/22 20:25:22,anonymous,,V Shanmukha Priya,19,Female,Student,Bachelors,4,Laptop/PC,Apple Siri,1,5,4,4,1,5,5,5,4,5,3,2,5,3,5,5,3,6,5
+116,10/15/22 21:51:44,10/15/22 21:58:03,anonymous,,Sowmya Sri,18,Female,Student,Bachelors,5,Laptop/PC,Apple Siri,1,5,1,5,1,5,4,5,5,5,0,4,5,4,5,5,3,8,4
+117,10/21/22 17:04:12,10/21/22 17:15:08,anonymous,,Archana Ramachandran,27,Female,Student,Doctorate and above,4,Mobile Phone,Google Assistant,1,4,1,5,1,5,5,5,5,5,5,5,5,5,5,5,4,9,5
+118,10/21/22 17:15:15,10/21/22 17:23:51,anonymous,,Archana Ramachandran,27,Female,Student,Doctorate and above,4,Mobile Phone,Amazon Alexa,0,5,3,1,1,5,5,5,5,5,5,5,4,5,5,5,4,7,5
+119,10/21/22 17:32:33,10/21/22 17:36:14,anonymous,,Archana Ramachandran,27,Female,Student,Doctorate and above,4,Laptop/PC,Microsoft Cortana,0,4,0,0,0,4,0,4,5,4,5,0,4,5,4,4,2,4,4
+120,10/21/22 17:36:41,10/21/22 17:45:12,anonymous,,Archana Ramachandran,2,Female,Student,Doctorate and above,4,Mobile Phone,Samsung Bixby,3,4,4,4,1,5,1,4,5,5,0,5,5,0,4,5,3,4,5
+121,10/21/22 18:19:23,10/21/22 18:26:23,anonymous,,Virendra,26,Male,Student,Masters,5,Mobile Phone,Google Assistant,1,5,1,5,1,5,5,5,5,5,5,5,5,5,5,5,4,8,5
+122,10/21/22 18:22:09,10/21/22 18:26:31,anonymous,,Sourish Chatterjee,23,Male,Student,Masters,5,Mobile Phone,Google Assistant,3,5,2,3,4,5,4,5,5,4,2,5,4,5,4,3,4,7,5
+123,10/21/22 18:26:26,10/21/22 18:29:54,anonymous,,Virendra Patil,26,Male,Student,Masters,5,Mobile Phone,Amazon Alexa,0,5,0,0,1,4,5,5,5,5,5,4,5,5,5,5,4,8,5
+124,10/21/22 18:19:59,10/21/22 18:30:52,anonymous,,Divya Gupta,25,Female,Student,Masters,5,Mobile Phone,Google Assistant,1,3,1,5,1,5,5,5,5,5,5,5,5,5,5,5,5,9,5
+125,10/21/22 18:30:07,10/21/22 18:36:34,anonymous,,Virendra Patil,26,Male,Student,Masters,5,Mobile Phone,Samsung Bixby,1,5,3,3,3,4,2,4,1,5,5,4,5,4,5,5,3,4,5
+126,10/21/22 18:36:47,10/21/22 18:40:16,anonymous,,Virendra Patil,2,Male,Student,Masters,5,Laptop/PC,Microsoft Cortana,0,5,0,0,0,5,0,0,5,5,5,0,5,5,5,5,3,3,5
+127,10/24/22 10:49:00,10/24/22 10:53:41,anonymous,,Sowmya,20,Female,Studen,Bachelors,5,Mobile Phone,Apple Siri,1,5,1,5,1,5,5,5,5,5,0,5,5,4,5,5,4,7,5
+128,10/24/22 11:21:36,10/24/22 11:28:05,anonymous,,Sreeya,19,Female,Student,Bachelors,4,Mobile Phone,Amazon Alexa,0,5,1,4,1,5,5,5,5,5,5,4,5,5,5,5,4,8,5
+129,10/24/22 12:01:02,10/24/22 12:09:21,anonymous,,Peela Pavani Sai Aishwarya,19,Female,Student,Bachelors,4,Laptop/PC,Apple Siri,1,5,1,5,1,5,5,5,5,5,4,4,4,4,5,5,4,8,5
+130,10/24/22 12:36:48,10/24/22 12:48:13,anonymous,,Jyoshna,20,Female,Student,Bachelors,4,Mobile Phone,Amazon Alexa,0,4,1,5,1,5,5,5,5,4,5,5,4,5,5,4,4,10,5
+131,11/4/22 19:00:48,11/4/22 19:04:16,anonymous,,Arvind Roshaan,25,Male,Student,Masters,5,Mobile Phone,Amazon Alexa,0,5,1,3,1,5,1,5,5,5,5,1,5,5,5,5,5,7,4
+132,11/4/22 19:04:19,11/4/22 19:11:19,anonymous,,Arvind Roshaan,25,Male,Student,Masters,5,Mobile Phone,Google Assistant,1,5,1,5,1,5,1,3,3,5,2,1,5,1,5,5,3,3,5
+133,11/4/22 19:17:41,11/4/22 19:26:43,anonymous,,Divya Gupta,25,Female,Student,Masters,4,Mobile Phone,Amazon Alexa,0,5,2,1,1,5,2,5,2,5,5,5,5,2,5,5,3,7,3
+134,11/4/22 19:22:19,11/4/22 19:36:32,anonymous,,MADDULA SAI SUNAMDHA HARINH,22,Female,Student,Masters,4,Mobile Phone,Amazon Alexa,0,5,1,5,1,5,5,5,4,5,5,4,5,5,5,5,4,9,5
+135,11/5/22 10:50:23,11/5/22 11:05:53,anonymous,,Sayantak Karar,24,Male,Software Developer,Bachelors,5,Mobile Phone,Google Assistant,1,5,1,5,1,5,4,4,2,5,5,5,5,2,4,5,4,9,5
+136,11/5/22 11:06:00,11/5/22 11:22:19,anonymous,,Sayantak Karar,24,Male,Software Developer,Bachelors,5,Mobile Phone,Amazon Alexa,0,5,1,5,1,5,3,5,5,5,5,5,5,5,5,5,5,9,5
+137,11/5/22 11:28:57,11/5/22 11:30:24,anonymous,,Ishita Bardhan,23,Female,Student,Masters,5,Mobile Phone,Amazon Alexa,0,5,1,1,1,5,2,5,5,5,5,5,5,5,5,5,4,7,3
+138,11/5/22 11:24:16,11/5/22 11:36:08,anonymous,,Sayantak Karar,24,Male,Software Developer,Bachelors,5,Laptop/PC,Microsoft Cortana,0,5,0,0,0,5,2,5,2,5,0,0,5,5,5,5,2,2,5
+139,11/5/22 12:37:53,11/5/22 12:42:49,anonymous,,Saikat Kundu,23,Male,Software developer,Bachelors,5,Laptop/PC,Microsoft Cortana,0,5,0,0,3,5,0,5,5,5,0,0,5,0,5,5,2,1,5
+140,11/5/22 12:42:59,11/5/22 12:50:12,anonymous,,Saikat Kundu,23,Male,Software Developer,Bachelors,5,Mobile Phone,Google Assistant,1,5,1,5,1,5,5,5,5,5,5,5,5,5,5,5,5,10,5
+141,11/5/22 13:24:54,11/5/22 13:30:52,anonymous,,Saikat Kundu,23,Male,Software developer,Bachelors,5,Mobile Phone,Amazon Alexa,5,5,0,1,1,5,5,5,5,5,4,1,5,5,4,4,3,7,5
+142,11/7/22 17:23:05,11/7/22 17:31:30,anonymous,,Varshita Sharma,24,Female,Student,Masters,5,Mobile Phone,Amazon Alexa,0,5,1,2,1,5,4,5,5,5,5,4,5,5,5,5,4,8,5
